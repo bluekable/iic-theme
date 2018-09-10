@@ -1,0 +1,12 @@
+/*
+ Theme Name:     IIC Theme
+ Theme URI:      https://iic-online.com
+ Description:    IIC - Divi Child Theme
+ Author:         Shane Drower-Copley   
+ Author URI:     https://www.plainsite.co.za
+ Template:       Divi
+ Version:        1.0.0
+*/
+
+/*** Take out the divider line between content and sidebar ***/
+#main-content .container:before {background: none;}
